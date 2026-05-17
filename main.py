@@ -53,7 +53,7 @@ async def root():
     Endpoint raíz de la API.
 
     Returns:
-        dict: Mensaje de bienvenida.
+        dict: Mensaje de bienvenidas.
     """
     return {"saludo": "Hola 8B IDGS hijos de Randolfo"}
 
